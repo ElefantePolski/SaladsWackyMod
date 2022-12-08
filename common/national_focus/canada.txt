@@ -583,11 +583,6 @@ focus_tree = {
 
 		completion_reward = {
 			add_ideas = CAN_war_bonds_1
-			hidden_effect = {
-				CAN = {
-					scoped_sound_effect = "Areweatwar"
-				}
-			}
 		}
 	}
 

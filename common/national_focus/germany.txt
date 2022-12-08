@@ -2330,11 +2330,6 @@ focus_tree = {
 
 		completion_reward = {
 			custom_effect_tooltip = GER_waffen_ss_tt
-			hidden_effect = {
-				GER = {
-					scoped_sound_effect = "LoweeeSS"
-				}
-			}
 		}
 	}
 	
@@ -3040,12 +3035,6 @@ focus_tree = {
 				}
 				add_compliance = 20
 			}
-			hidden_effect = {
-				GER = {
-					scoped_sound_effect = "ger_roa"
-				}
-			}
-			
 		}
 	}
 	
@@ -3916,14 +3905,6 @@ focus_tree = {
 				country_event = { id = germany.11 days = 1 }
 				custom_effect_tooltip = GER_mol_rib_pact_tt
 				custom_effect_tooltip = needs_approval
-			}
-			hidden_effect = {
-				# GER = {
-				# 	scoped_sound_effect = "Poland"
-				# }
-				SOV = {
-					scoped_sound_effect = "Poland"
-				}
 			}
 		}
 	}
@@ -5595,9 +5576,6 @@ focus_tree = {
 			}
 			hidden_effect = {
 				load_oob = GER_volk
-				GER = {
-					scoped_sound_effect = "children"
-				}
 			}
 		}
 	}
