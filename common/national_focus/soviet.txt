@@ -2287,7 +2287,6 @@
 						recon = { x = 0 y = 2 }
 						logistics_company  = { x = 0 y = 3 }
 						anti_air = { x = 1 y = 0 }
-						logistics_company_horse = { x = 1 y = 1 }
 					}
 				}
 				if = {
@@ -2406,7 +2405,6 @@
 						recon = { x = 0 y = 2 }
 						logistics_company  = { x = 0 y = 3 }
 						anti_air = { x = 1 y = 0 }
-						logistics_company_horse = { x = 1 y = 1 }
 					}
 				}
 				if = {

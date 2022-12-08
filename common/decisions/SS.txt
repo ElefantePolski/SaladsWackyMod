@@ -384,7 +384,6 @@ SS_templates = {
 					anti_air = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -424,7 +423,6 @@ SS_templates = {
 					heavy_anti_air = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			custom_effect_tooltip = SS_infantry_template_tt
@@ -475,7 +473,6 @@ SS_templates = {
 					mot_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -515,7 +512,6 @@ SS_templates = {
 					light_sp_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -555,7 +551,6 @@ SS_templates = {
 					medium_sp_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			custom_effect_tooltip = SS_motorised_template_tt
@@ -729,7 +724,6 @@ SS_templates = {
 					mot_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -767,7 +761,6 @@ SS_templates = {
 					light_sp_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -805,7 +798,6 @@ SS_templates = {
 					medium_sp_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			custom_effect_tooltip = SS_medium_template_tt
@@ -854,7 +846,6 @@ SS_templates = {
 					mot_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -892,7 +883,6 @@ SS_templates = {
 					mot_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			division_template = {
@@ -930,7 +920,6 @@ SS_templates = {
 					medium_sp_anti_air_brigade = { x = 1 y = 0 }
 					logistics_company = { x = 1 y = 1 }
 					logistics_company_mot = { x = 1 y = 2 }
-					logistics_company_horse = { x = 1 y = 3 }
 				}
 			}
 			custom_effect_tooltip = SS_heavy_template_tt

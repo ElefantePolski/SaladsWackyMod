@@ -252,10 +252,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/traits/trait_bavarian.dds"
 	}
 	spriteType = {
-		name = "GFX_trait_cookie"
-		texturefile = "gfx/interface/traits/trait_cookie.dds"
-	}
-	spriteType = {
 		name = "GFX_trait_game_master"
 		texturefile = "gfx/interface/traits/trait_unyielding_defender.dds"
 	}
@@ -725,7 +721,6 @@ spriteTypes = {
 	spriteType = { name = "GFX_unit_heavy_artillery_brigade_icon_medium"				textureFile = "gfx/interface/counters/divisions_large/unit_heavy_art_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_heavy_anti_air_icon_medium"							textureFile = "gfx/interface/counters/divisions_large/support_unit_heavy_anti_air_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_heavy_anti_tank_brigade_icon_medium"				textureFile = "gfx/interface/counters/divisions_large/unit_heavy_at_icon.dds" noOfFrames = 2 }
-	spriteType = { name = "GFX_unit_logistics_company_horse_icon_medium"				textureFile = "gfx/interface/counters/divisions_large/support_unit_logistics_company_horse_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_logistics_company_mot_icon_medium"					textureFile = "gfx/interface/counters/divisions_large/support_unit_logistics_company_mot_icon.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_hq_company_icon_medium"								textureFile = "gfx/interface/counters/divisions_large/support_unit_hq.dds" noOfFrames = 2 }
 	spriteType = { name = "GFX_unit_assault_engineer_icon_medium"						textureFile = "gfx/interface/counters/divisions_large/unit_static_engineer_icon.dds" noOfFrames = 2 }

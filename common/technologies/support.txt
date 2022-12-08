@@ -1431,7 +1431,6 @@ technologies = {
 		enable_subunits = {
 			logistics_company
 			logistics_company_mot
-			logistics_company_horse
 		}
 		
 		path = {
@@ -1491,10 +1490,6 @@ technologies = {
 			supply_consumption_factor = -0.05
 			fuel_consumption_factor = -0.05
 		}
-		logistics_company_horse = {
-			supply_consumption_factor = -0.02
-			fuel_consumption_factor = -0.05
-		}
 		
 		path = {
 			leads_to_tech = tech_logistics_company3
@@ -1550,10 +1545,6 @@ technologies = {
 			supply_consumption_factor = -0.05
 			fuel_consumption_factor = -0.05
 		}
-		logistics_company_horse = {
-			supply_consumption_factor = -0.02
-			fuel_consumption_factor = -0.05
-		}
 		
 		path = {
 			leads_to_tech = tech_logistics_company4
@@ -1601,10 +1592,6 @@ technologies = {
 		}
 		logistics_company_mot = {
 			supply_consumption_factor = -0.05
-			fuel_consumption_factor = -0.05
-		}
-		logistics_company_horse = {
-			supply_consumption_factor = -0.02
 			fuel_consumption_factor = -0.05
 		}
 
